@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: pun-api
-        image: ghcr.io/copterbuddy/devops-go-example:96962b89ff30c0825a7db8674cdb6db6dd109466
+        image: ghcr.io/copterbuddy/devops-go-example:7c6ef25c49465b7842e5919b0c7eddd003df196c
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
